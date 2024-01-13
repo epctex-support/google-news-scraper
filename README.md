@@ -1,3 +1,5 @@
+[https://apify.com/epctex/google-news-scraper?fpr=yhdrb](https://apify.com/epctex/google-news-scraper?fpr=yhdrb)
+
 # Actor - Google News Scraper
 
 ## Google News scraper
